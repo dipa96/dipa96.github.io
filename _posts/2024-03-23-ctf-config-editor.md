@@ -8,7 +8,7 @@ categories:
 
 Achieve Remote Code Execution via a Config Editor app in Android by exploiting vulnerabilities in a third party library.
 
-[Github Repository Link](https://github.com/dipa96/daysbeyond-archive/tree/main/CTFs/ConfigEditor)
+[Github Repository Link](https://github.com/dipa96/daysbeyond-archive/tree/main/CTFs/ConfigEditor){:target="_blank"}
 
 ## Table of Contents
 

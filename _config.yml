@@ -16,7 +16,7 @@
 title: Days Beyond
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- Security Things
+ Talk about Offensive Security
   
 twitter_username: _dipa996
 github_username: dipa996
@@ -57,31 +57,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "DIPA"
+  name   : "Dipa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Offensive Security"
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+  bio    : "Opinions Are My Own"
+  links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://daysbeyond.blog/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_dipa996"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dipa96"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_dipa996"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dipa96"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
@@ -93,10 +93,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
